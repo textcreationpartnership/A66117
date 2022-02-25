@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unlawfulness of bonds of resignation first written in the year 1684 for the satisfaction of a private gentleman, and now made publick for the good of others.</title>
+            <author>Willes, John, 1646 or 7-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66117</idno>
+            <idno type="STC">Wing W2304</idno>
+            <idno type="STC">ESTC R38618</idno>
+            <idno type="EEBO-CITATION">17807576</idno>
+            <idno type="OCLC">ocm 17807576</idno>
+            <idno type="VID">106654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1109:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unlawfulness of bonds of resignation first written in the year 1684 for the satisfaction of a private gentleman, and now made publick for the good of others.</title>
+                  <author>Willes, John, 1646 or 7-1700.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and to be sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Willes by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Benefices.</term>
+               <term>Patronage, Ecclesiastical --  England.</term>
+               <term>Benefices, Ecclesiastical --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106654:1"/>
+            <pb facs="tcp:106654:1"/>
+            <p>THE UNLAWFULNESS OF Bonds of Reſignation.</p>
+            <p>Firſt Written in the YEAR 1684.</p>
+            <p>FOR THE <hi>Satisfaction of a Private Gentleman.</hi> And now Made Publick for the Good of Others.</p>
+            <q xml:lang="lat">
+               <p>Indultum à jure Beneficium non eſt alicui aufe<g ref="char:EOLhyphen"/>rendum.</p>
+               <p>Quod ſuo nomine non licet, nec alieno licebit.</p>
+               <p>Quod ob gratiam alicujus conceditur, non eſt in ejus diſpendium retorquendum.</p>
+               <bibl>Reg. Juris.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed, and to be Sold by <hi>E. Whitlock</hi> near <hi>Stationers<g ref="char:punc">▪</g> Hall,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106654:2" rendition="simple:additions"/>
+            <epigraph>
+               <q xml:lang="lat">
+                  <p>SAcerdotia non ſunt delata ad Patro<g ref="char:EOLhyphen"/>nos, ut illa circumciderent, aut de illis depraedarentur; ſed ut illorum praeſidio &amp; fide tuto conquieſcerent.</p>
+                  <bibl>Reformat. Leg. Eccleſiaſt. ſub. Henr. 8. &amp; Edv. 6. Pag. 57.</bibl>
+               </q>
+            </epigraph>
+            <pb n="1" facs="tcp:106654:2"/>
+            <head>The UNLAWFULNESS OF Bonds of RESIGNATION.</head>
+            <p>HAving many Years ſince, in a Publick Diſcourſe, caſt ſome Reflections up<g ref="char:EOLhyphen"/>on <hi>Bonds of Reſignation,</hi> I was not a little importuned to make them yet more Publick; and, amongſt o<g ref="char:EOLhyphen"/>ther Solicitations, received the fol<g ref="char:EOLhyphen"/>lowing Letter from a very worthy Gentleman, dated <hi>July 12th.</hi> 1684.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="2" facs="tcp:106654:3"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>YOur Opinion againſt Bonds of Reſignation, ſufficiently con<g ref="char:EOLhyphen"/>vinceth me that they are not commenda<g ref="char:EOLhyphen"/>ble, tho' they do not direclty appear un<g ref="char:EOLhyphen"/>lawful: But ſince the contrary hath been an Error ſo univerſally (I had almoſt ſaid, ſo advantageouſly) received by Patrons, I muſt needs beg you, not only for my own ſatisfaction, but as a Juſtice to our Mother the Church of <hi>England,</hi> to give thoſe Reaſons more at large; or if you think fit, to make them publick. 'Tis charitable to confute an Error ſo ge<g ref="char:EOLhyphen"/>nerally received, and Truth is a Cauſe worthy a good Man; eſpecially where 'tis a Debt to the Church, a Juſtice to your ſelf and Friends, and will be a par<g ref="char:EOLhyphen"/>ticular Obligation to</p>
+                  <closer>
+                     <salute>SIR,</salute> 
+                     <signed>Your moſt Humble Servant, <hi>W. S.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:106654:3"/>
+            <p> Upon the Receipt of which Let<g ref="char:EOLhyphen"/>ter I immediately drew up this ſhort Account.</p>
+            <p>Firſt, Of the Unlawfulneſs of Bonds of Reſignation; and, Secondly, Of their great Miſchief and Inconveniency.</p>
+            <p>The Unlawfulneſs of Bonds of Reſignation appears,
+<list>
+                  <item>I. From the Statute of the 31 <hi>ſt.</hi> of <hi>Elizabeth.</hi>
+                  </item>
+                  <item>II. From the Eccleſiaſtical Ca<g ref="char:EOLhyphen"/>nons, confirm'd by that Statute.</item>
+                  <item>III. From the Abſurdities that follow upon the Practice of them.</item>
+               </list>
+            </p>
+            <p>Firſt, By the Statute of 31<hi>ſt. Eliz. c. 6. That no Perſon ſhall Preſent for any Summ of Money, Reward, Gift, Profit or Benefit, directly or in<g ref="char:EOLhyphen"/>directly; or for, or by reaſon of any
+<pb n="4" facs="tcp:106654:4"/> Promiſe, Agreement, Grant, Bond, Covenant, or other aſſurance of, or for any Money, Reward, Gift, Profit, or Benefit whatſoever,</hi> &amp;c. In which Words, all Bonds for Money, or whereby any Profit or Benefit, di<g ref="char:EOLhyphen"/>rectly or indirectly, may accrue to the Patron, are expreſly forbidden. And whoever Preſents for, or in Conſideration of the Clerk's ha<g ref="char:EOLhyphen"/>ving given a Bond to Reſign, when his Son comes to be of the Age of a Prieſt, moſt certainly Preſents for, or in conſideration of a Bond, that is to the Profit and Benefit of the Patron, and really preferable to a conſiderable Summ of Money. And of this we need no other Proof than the Bonds themſelves, which are conſtantly for a greater, or leſſer Summ, proportionable to the Value of the Parſonage.</p>
+            <pb n="5" facs="tcp:106654:4"/>
+            <p>There are two Caſes in<note place="margin">Crook's 2 Rep. <hi>p.</hi> 248, &amp; 274.</note> 
+               <hi>Crook</hi>'s Reports, which are commonly urged in behalf of thoſe Bonds: When the Pa<g ref="char:EOLhyphen"/>tron (to put the moſt favoura<g ref="char:EOLhyphen"/>ble Caſe) hath a Son deſign'd to ſucceed. And Sir <hi>S. D.</hi> pleads for theſe Bonds, <hi>That Nature teacheth us to provide for our Children.</hi> But that Gentleman ſhould have conſi<g ref="char:EOLhyphen"/>der'd, that Nature doth not teach us to provide for our Children by indirect and unlawful Methods; That Daughters are to be provi<g ref="char:EOLhyphen"/>ded for as well as Sons; and if this Pretence of Nature will not juſtifie a Patron to take 500 <hi>l.</hi> of a Clerk, as a Portion for his Daugh<g ref="char:EOLhyphen"/>ter, it will not juſtifie his taking a Bond of Reſignation (which may really be worth more) to make proviſion for his Son. The Eccle<g ref="char:EOLhyphen"/>ſiaſtical
+<pb n="6" facs="tcp:106654:5"/> Canons forbid a Patron <hi>Ec<g ref="char:EOLhyphen"/>cleſiamnomine dotalitatis ad aliquemtrans<g ref="char:EOLhyphen"/>ferre;</hi> and the Common Law will not allow a Patron to covenant with a Clerk, that upon the condition of his marrying of his Daughter, he will preſent him to his Church; and the pretence of Nature's teach<g ref="char:EOLhyphen"/>ing of them to provide for their Children, will not excuſe them.</p>
+            <p>But before I leave theſe two Caſes in <hi>Crook</hi>'s Reports, it's ve<g ref="char:EOLhyphen"/>ry obſervable that the Point in Iſſue was only the Validity of ſuch Bonds againſt the Clerks that gave them, for the Payment of the Money; but whether ſuch Bonds were within the Corru<g ref="char:EOLhyphen"/>ption condemned by the Statute, and ſo their Preferments void, was not in Iſſue. And in that famous Caſe-betwixt <hi>Jones</hi> and <hi>Lawrence,</hi>
+               <pb n="7" facs="tcp:106654:5"/> where the Clerk alledg'd in Arreſt of Judgment, the illegality of the Contract, the Court agreed <hi>that that was not material as to the Bond, becauſe the Statute did not make the Bond void, tho' it did the Preſentation:</hi> And ſo the Judges puniſh'd thoſe Clerks, by making of them pay the Penalty of their Bonds for not Re<g ref="char:EOLhyphen"/>ſigning; but did not ſecure them from the Penalty of the Statute, and being turn'd out for their cor<g ref="char:EOLhyphen"/>rupt Contracts. But had theſe two Caſes been never ſo full in behalf of ſuch Contracts; yet we ſee daily that Judges do not look upon themſelves as bound up by the Opinions of their Predeceſſors, but vary from them as often as they ſee reaſon for it; and in this very Matter there is a Caſe reported by <hi>Noy, p.</hi> 22. betwixt Sir <hi>John Paſcall</hi>
+               <pb n="8" facs="tcp:106654:6"/> and one <hi>Clerk,</hi> in the <hi>15th.</hi> Year of King <hi>James,</hi> where ſuch Bonds were adjudged illegal. There is alſo a farther Clauſe in this Statute, of Queen <hi>Elizabeth,</hi> that is very obſer<g ref="char:EOLhyphen"/>vable; <hi>viz. That if any Incumbent of any Benefice with Cure of Souls, do, or ſhall comply, reſign, or exchange the ſame, or corruptly take for, or in reſpect of the reſigning of the ſame, directly or indirectly, any Sum of Money or Be<g ref="char:EOLhyphen"/>nefit whatſoever, ſhall loſe double the Value of the Summ ſo given,</hi> &amp;c. Now whoever Reſigns for, and upon the Account of his having a good Bond of 500 <hi>l.</hi> or any o<g ref="char:EOLhyphen"/>ther Summ, given back to him, doth certainly either directly or indirectly Reſign for a Sum of Mo<g ref="char:EOLhyphen"/>ney, or Benefit, and loſeth dou<g ref="char:EOLhyphen"/>ble the Value of the Bond given up, one half to the King, and the
+<pb n="9" facs="tcp:106654:6"/> other half to the Informer, as the Act expreſſeth it. And this Sta<g ref="char:EOLhyphen"/>tute will be ſo far from juſtifying ſuch corrupt Reſignations, that it expreſly forbids them and puni<g ref="char:EOLhyphen"/>ſheth them. And, to ſumm up this Matter, If, after a Bond given to Reſign, it be unlawful for a Clerk to Reſign upon the Ac<g ref="char:EOLhyphen"/>count of being free'd from the Pe<g ref="char:EOLhyphen"/>nalty of the Bond; and yet if he doth not Reſign at the time ap<g ref="char:EOLhyphen"/>pointed, the Patron will recover of him the Penalty of the Bond; then theſe Bonds are in effect the ſame, as if they had been <hi>abſo<g ref="char:EOLhyphen"/>lutely</hi> for ſo much Money at the time agreed on; and ſo there is no doubt but that ſuch Bonds are cor<g ref="char:EOLhyphen"/>rupt, and againſt the Statute.</p>
+            <p>Secondly, Theſe Bonds are contrary to the Eccleſiaſtical Ca<g ref="char:EOLhyphen"/>nons,
+<pb n="10" facs="tcp:106654:7"/> which are now in force, and were confirm'd by that very Sta<g ref="char:EOLhyphen"/>tute of Queen <hi>Elizabeth.</hi> For there it follows in theſe Words: <hi>Provi<g ref="char:EOLhyphen"/>ded that this Act ſhall not extend to take away, or reſtrain any Puniſhment, Pain, or Penalty, limited, preſcribed, or inflicted, by the Laws Eccleſiaſtical, for any of the Offences before, in this Act mention'd; but that the ſame ſhall remain in force, and may be put in due Execution, as it might be before the ma<g ref="char:EOLhyphen"/>king of this Act, or any thing contained therein to the contrary thereof, in any wiſe, notwithſtanding.</hi> And there<g ref="char:EOLhyphen"/>fore if at any time the Biſhop of the Dioceſe will proceed to a Sen<g ref="char:EOLhyphen"/>tence of Deprivation againſt a Clerk for giving Bond to Reſign, I take it that there can lie no Pro<g ref="char:EOLhyphen"/>hibition againſt him, from any Common-Law-Court, becauſe the
+<pb n="11" facs="tcp:106654:7"/> very Act of Parliament that ap<g ref="char:EOLhyphen"/>points other Puniſhments to the Buying and Selling of Eccleſiaſti<g ref="char:EOLhyphen"/>cal Preferments, reſerves and con<g ref="char:EOLhyphen"/>firms this Power to the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Courts. Now the ancient Eccleſiaſtical Law, in this Mat<g ref="char:EOLhyphen"/>ter, is in a Council held at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> by <hi>Edmond</hi> Archbiſhop of <hi>Canterbury,</hi> in theſe Words, <hi>Nulli liceat pro Praeſentatione alicujus perſonae, pecuniam vel aliquod emolumentum, pa<g ref="char:EOLhyphen"/>cto interveniente recipere,</hi> &amp;c. Alſo in <hi>Linwood, l. 2<g ref="char:punc">▪</g> de Juramento &amp; Conſtit. Stephani &amp; Cant. Epiſc.</hi> by which every Clerk, before he received Inſtitution, was to take this Oath. <hi>Quod propter Praeſentationem illam, nec promiſerit, nec dederit aliquid Praeſen<g ref="char:EOLhyphen"/>tanti, nec aliquam propter hoc inierit pactionem;</hi> i. e. <hi>That he hath neither given, nor promiſed any thing to his
+<pb n="12" facs="tcp:106654:8"/> Patron, for preſenting him, nor enter'd into any Bond or Agreement upon that Account.</hi> And at this day, purſu<g ref="char:EOLhyphen"/>ant to the Canons of King <hi>James</hi> the Firſt, every Clerk, before he receives Inſtitution, muſt ſwear, <hi>That he hath made no Simoniacal Pay<g ref="char:EOLhyphen"/>ment, Contract, or Promiſe, directly or indirectly, by himſelf or any other, to his knowledge, or with his conſent, to any perſon or perſons whatſoever, for, or concerning the procuring and obtaining of this Eccleſiaſtical Dignity, Place, Preferment, Office, or Living, nor will at any time hereafter perform or ſatisfie any ſuch kind of Payment, Contract, or Promiſe made by any other, without his knowledge and conſent.</hi> Now if there be any doubt or ſcruple, what is, and what is not a Simoniacal Contract, this can<g ref="char:EOLhyphen"/>not be determin'd by Statute or
+<pb n="13" facs="tcp:106654:8"/> Common Law, where the Word Simony or Simoniacal is never uſed, nor by thoſe two Caſes, in <hi>Crook</hi>'s Reports, which relate only to the validity of Bonds of Reſig<g ref="char:EOLhyphen"/>nation againſt the Clerks, for the payment of the Forfeiture, with<g ref="char:EOLhyphen"/>out determining whether ſuch Bonds include any corruption a<g ref="char:EOLhyphen"/>gainſt the Statute or Canons, but by the Eccleſiaſtical Canons; and there is no doubt but that the Canoniſts did always account ſuch Bonds Simoniacal Contracts. Fa<g ref="char:EOLhyphen"/>ther <hi>Paul,</hi> of Matters Beneficiary, <hi>p.</hi> 75. hath theſe Words: <hi>'Tis con<g ref="char:EOLhyphen"/>ſtantly affirm'd by all Canoniſts and Ca<g ref="char:EOLhyphen"/>ſuiſts, That every Contract, in Mat<g ref="char:EOLhyphen"/>ters of Benefices, is Simoniacal, if it be made without the Pope's participation; but with his Intervention, it is legitimate; holding for conſtant this general Propo<g ref="char:EOLhyphen"/>ſition,
+<pb n="14" facs="tcp:106654:9"/> That the Pope, in Beneficiary Matters cannot commit Simony.</hi> So that except our Engliſh Patrons can get the Pope on their ſides, to legitimate every particular Bond of Reſignation that they require, they are undoubtedly Simoniacal. The Pope himſelf is eſteem'd a<g ref="char:EOLhyphen"/>bove all Laws and Canons, <hi>Legi<g ref="char:EOLhyphen"/>bus Canonibuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſolutus;</hi> but for any other Patron to conferr a Benefice, for a limited time, is held unlaw<g ref="char:EOLhyphen"/>ful in all thoſe Churches where theſe Canons are in force. Even Reſignations, if they were occa<g ref="char:EOLhyphen"/>ſion'd through fear or compulſion, and were not purely voluntary, were accounted void: Every valid Reſignation the Canoniſts call <hi>Spon<g ref="char:EOLhyphen"/>taneam ejurationem, &amp; ſiquis ad bene<g ref="char:EOLhyphen"/>ficium ejurandum metu adigatur, irrit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt ejuratio,</hi> Duarenus, l. 8. c. 2
+<pb n="15" facs="tcp:106654:9"/> So that in the Canon Law theſe Bonds deſtroy themſelves; and whilſt they compel a Clerk to Re<g ref="char:EOLhyphen"/>ſign, make his Reſignation<g ref="char:punc">▪</g> forc'd, and by conſequence not good.</p>
+            <p>Thirdly, There are many Ab<g ref="char:EOLhyphen"/>ſurdities that follow from the pra<g ref="char:EOLhyphen"/>ctice of theſe Bonds, both in the Common and Canon-Law. In our Common Law, the Parſonage-houſe, Church, Church-yard and Glebe, are the Parſons Free-hold; but to have a Free-hold determi<g ref="char:EOLhyphen"/>nable upon a certain number of Years, is abſurd; and as a <hi>Leſſee</hi> for Years (be they never ſo many) cannot grant an Eſtate for Life, becauſe he cannot turn his Leaſe into a Freehold; ſo by parity of Reaſon, a Preſentation of a Clerk virtually, <hi>pro tempore limitato,</hi> can<g ref="char:EOLhyphen"/>not
+<pb n="16" facs="tcp:106654:10"/> be ſufficient for a Biſhop's In<g ref="char:EOLhyphen"/>ſtitution and Mandate of Induction, which give an Eſtate for Life and make a Free-hold. By the Cano<g ref="char:EOLhyphen"/>niſts, a Parſonage is defined to be, <hi>Res Eccleſiaſtica quae ſacerdoti vel Cle<g ref="char:EOLhyphen"/>rico ob ſacrum Miniſterium in perpetu<g ref="char:EOLhyphen"/>um conceditur—dicitur in perpetuum, quia cùm ad tempus Miniſter Eccleſiae ordinari non poteſt, neceſſe eſt Bene<g ref="char:EOLhyphen"/>ficium ipſum quod miniſterio conjunctum eſt, perpetuum eſse,</hi> Duarenus, l. 2. c. 4. <hi>i. e.</hi> Every Benefice is gran<g ref="char:EOLhyphen"/>ted to a Prieſt for ever; and there<g ref="char:EOLhyphen"/>fore it is for ever, becauſe ſince no one can be ordain'd only for a ſett time, the Benefice, or Title upon which the Ordination is founded, muſt be perpetual alſo. Antiqui<g ref="char:EOLhyphen"/>ty knew of no difference betwixt Ordination, and giving a Benefice; and if any one was ordain'd a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:106654:10"/> Prieſt without a Title, by the Ca<g ref="char:EOLhyphen"/>nons of the Fourth General Coun<g ref="char:EOLhyphen"/>cil, his Ordination was void. And if all lawful Ordinations fix a per<g ref="char:EOLhyphen"/>petual and indelible Character, as our Canons declare, then Preſen<g ref="char:EOLhyphen"/>tations and Inſtitutions muſt be un<g ref="char:EOLhyphen"/>limited alſo. So that Bonds for Reſignation of a Benefice, at a ſett time, are very contradictory to the Nature of a Benefice, and in<g ref="char:EOLhyphen"/>clude manifeſt Abſurdities both in the Common Law of the Land, and the Canon-Law of the Church.</p>
+            <p>Fourthly, The Unlawfulneſs of theſe Bonds appears both from the Nature of the Obligation, and of the Condition<g ref="char:punc">▪</g> The Obligation is abſolute for a Sum of Money; and if it be unlawful to give a Sum of Money for the Preſentation, it
+<pb n="18" facs="tcp:106654:11"/> is alſo to give a Bond; for every good Bond is virtually Money; and even our Common Lawyers are agreed, that where the Mo<g ref="char:EOLhyphen"/>ney, and not the Reſignation is deſigned by the Patron, the Con<g ref="char:EOLhyphen"/>tract is corrupt. Now who knows what the Patron deſigns? Or if any one could know it, how ſhould he be ſure that he will con<g ref="char:EOLhyphen"/>tinue in that Mind and no Croſſes nor Loſſes make him alter it? When the Bond is forfeited, its Money, if the Patron pleaſeth; and ſhould he wave the requiring of it, who knows what an Executor may do? And then the demand of the Money made by the Patron, and the payment of it by the Clerk, will be naturally conſtrued in a Court of Judicature, to be no more than what was originally de<g ref="char:EOLhyphen"/>ſign'd,
+<pb n="19" facs="tcp:106654:11"/> and, by Conſequence, cor<g ref="char:EOLhyphen"/>rupt. And if we look into the Conditions of theſe Bonds, we ſhall find that they will not help the Matter<g ref="char:punc">▪</g> for the Condition is, to reſign the Benefice at a time ex<g ref="char:EOLhyphen"/>preſs'd. Now if this Condition be out of the Clerk's Power, and he cannot reſign when he pleaſeth, then the Bond will be ſtill the ſame as if it were abſolute. If a Man ſhould give Bond to pay a Summ of Money, if before ſuch a day he did not fly up to the Moon, ſuch a Bond is as to the effect of it, the very ſame, as if it had been a Bond abſolute for the Summ of Money mention'd. Now whoever is in<g ref="char:EOLhyphen"/>ſtituted into a Benefice, takes upon him the care of ſo many Souls, and cannot reſign his Truſt without the particular conſent of his Ordinary
+<pb n="20" facs="tcp:106654:12"/> that committed it to him. <hi>Father Paul</hi> ſaith, <hi>That it was never lawful for him that was put into any Eccleſiaſti<g ref="char:EOLhyphen"/>cal Charge, to leave it off of his own Authoritysand 'tis at the Superior's liberty to receive the Reſignation or not.</hi> And we have the concurring Opi<g ref="char:EOLhyphen"/>nion of the Canoniſts in <hi>Duarenus, l. 8. c.</hi> 2. So that for a Clerk to engage himſelf under a Summ of Money to reſign the Benefice, at a time prefixed, is really to engage to do what is not in his power, and ſo will be very much the ſame as a Bond abſolute for the Sum a<g ref="char:EOLhyphen"/>greed on.</p>
+            <p>Notwithſtanding theſe Reaſons for the illegality of Bonds of Re<g ref="char:EOLhyphen"/>ſignation, there are two popular Arguments in behalf of them, which deſerve to be conſidered.</p>
+            <pb n="21" facs="tcp:106654:12"/>
+            <p>Firſt, <hi>That it ſeems reaſonable that ſuch Gentlemen as are poſſeſſed of the Advowſon of any rich Benefice, ſhould have the liberty to preſent one of their own Sons, if fit for it; and ſhould the Be<g ref="char:EOLhyphen"/>nefice become void, whilſt his Son de<g ref="char:EOLhyphen"/>ſign'd for it is only in his Education, and not qualify'd for Prieſthood, that the Patron have Power to diſpoſe of it pro<g ref="char:EOLhyphen"/>viſionally, for a time, till his Son be fit.</hi>
+            </p>
+            <p>In Anſwer to which, I grant, that if the Patron, or his Anceſtors, had been the Donors of the Tem<g ref="char:EOLhyphen"/>poralties, there might have been ſome pretence; but if on the con<g ref="char:EOLhyphen"/>trary, the Right of Patronage aroſe from the Building of the Church, and neither Tith nor Glebe (generally ſpeaking) were of the Patron's Do<g ref="char:EOLhyphen"/>nation; If the Temporalties (upon the Vacancy of the Church) do not return to the Patron, but the
+<pb n="22" facs="tcp:106654:13"/> Biſhop, and he, and not the Pa<g ref="char:EOLhyphen"/>tron diſpoſeth of them, firſt by Sequeſtration, and afterwards by Mandate of Induction, and the Right of Patronage is purely a ſpi<g ref="char:EOLhyphen"/>ritual Truſt to recommend a wor<g ref="char:EOLhyphen"/>thy Perſon, and not directly con<g ref="char:EOLhyphen"/>cern'd in the Temporalties at all, there will be very little Argument in this pretence; and if the Patron have the liberty to preſent his own Son, when he is fit, there is no rea<g ref="char:EOLhyphen"/>ſon that the Laws and Conſtitu<g ref="char:EOLhyphen"/>tions of Church and State ſhould be ſtrain'd to favour him farther, and enable him to give thoſe Tem<g ref="char:EOLhyphen"/>poralties to his own Children, which were given to the Church by other Perſons.</p>
+            <p>Secondly, It is objected, <hi>That theſe Bonds of Reſignation are very rea<g ref="char:EOLhyphen"/>ſonable,
+<pb n="23" facs="tcp:106654:13"/> when the condition of them is only the Clerk's keeping ſtrict Reſidence, or not accepting of another Benefice, or the like.</hi>
+            </p>
+            <p>To which I Anſwer, That e<g ref="char:EOLhyphen"/>ven in theſe Caſes, ſince the Pe<g ref="char:EOLhyphen"/>nalty of all theſe Bonds, upon the forfeiture, is payable only to the Patron, its ſhrewdly to be ſuſpe<g ref="char:EOLhyphen"/>cted, that whatever the pretence be, yet the Patron collaterally and indirectly, at leaſt, hath an eye to the gaining of the Money upon the forfeiture of the Bond.</p>
+            <p>Now that which ſhould ſway with every good Man, is the great heap of Miſchiefs and Inconvenien<g ref="char:EOLhyphen"/>cies that attend theſe Bonds.</p>
+            <p>Firſt, To ſuch conſcientious Cler<g ref="char:EOLhyphen"/>gy-men, as refuſe to give Bonds of Reſignation; who, tho' they be ne<g ref="char:EOLhyphen"/>ver ſo learned, never ſo pious and
+<pb n="24" facs="tcp:106654:14"/> well qualified for the Cure, yet are ſlighted and paſſed by, and leſs worthy Perſons preferr'd, for no other reaſon, but becauſe theſe will enter into thoſe Bonds, which the other will not.</p>
+            <p>Secondly, To ſuch Clerks as give theſe Bonds, who many times are troubled in Conſcience for what they have done, when it's too late to help it; and tho' they be not, yet having been ſettled in a Pariſh, and, perhaps, having a Wife and Children to provide for, they are then call'd upon to reſign, when they want the Profits more than ever, and forc'd to ſeek Bread for themſelves and Family; and ſince moſt Perſons that have given Bond, are apt to perſuade themſelves, ei<g ref="char:EOLhyphen"/>ther that the Patron will not put the Bond in ſuit againſt them, or that the Son deſign'd to ſucceed,
+<pb n="25" facs="tcp:106654:14"/> will either not be fit, or not wil<g ref="char:EOLhyphen"/>ling to take Orders, or may die be<g ref="char:EOLhyphen"/>fore that time, or that the Biſhop may refuſe to receive his Reſigna<g ref="char:EOLhyphen"/>tion, or the like, they will be very apt to look upon their preſent Pre<g ref="char:EOLhyphen"/>ferments as Settlements, and run into the Inconveniencies mention'd.</p>
+            <p>Thirdly, To the Pariſhes where ſuch Clerks live; for it cannot be imagin'd, that where the Incum<g ref="char:EOLhyphen"/>bent is limited to a certain number of years, that he can afford to re<g ref="char:EOLhyphen"/>lieve the Poor, and perform ſuch Acts of Charity and Hoſpitality as become his Station. How can a temporary Incumbent afford to re<g ref="char:EOLhyphen"/>build the Parſonage-houſe, be it ne<g ref="char:EOLhyphen"/>ver ſo ruinous? How can he af<g ref="char:EOLhyphen"/>ford to repair and beautifie the Chancel? And therefore what is obſerv'd to happen often to old In<g ref="char:EOLhyphen"/>cumbents, that they let their Hou<g ref="char:EOLhyphen"/>ſes
+<pb n="26" facs="tcp:106654:15"/> decay with themſelves, will be generally true of theſe, who ſee their end more certainly approach<g ref="char:EOLhyphen"/>ing than the other do, and will do as little in repairs, as poſſible, be<g ref="char:EOLhyphen"/>cauſe they ſee that they have but a ſhort time.</p>
+            <p>Fourthly, To the Church and Kingdom. What Incroachments doth this occaſion upon the Tithes, Glebes, and other Profits of the Church, when the Miniſter is kept in awe by his Patron, and hath neither Money nor Time that he can ſpare for managing a Law-ſuit in defence of them? How will ſuch a one be able to oppoſe Vice and Faction; eſpecially if his Patron be criminal? He muſt be contented to preach ſuch Doctrine as will pleaſe him; and tho' embroiling the Civil Government be the Pa<g ref="char:EOLhyphen"/>tron's Deſign, yet the Clerk muſt
+<pb n="27" facs="tcp:106654:15"/> blow the Coals, and preach Do<g ref="char:EOLhyphen"/>ctrine ſuitable, as was too viſible in our Civil War; and, laſtly, ſhould the Patron be a Roman Catholick, Popery muſt be quite let alone in his Sermons, or touch'd very gently.</p>
+            <p>Theſe, and many more Miſchiefs are ſuch natural conſequences of Bonds of Reſignation, and ſo eaſily to be obſerv'd by any one that will give himſelf time to think, that I ſhall conclude that Man to be no Friend either to Church or State, that doth not uſe his beſt Endea<g ref="char:EOLhyphen"/>vours to diſcourage them. And for the more ſpeedy and effectual ſup<g ref="char:EOLhyphen"/>preſſing of this growing Evil, I Humbly propoſe it to my Lords the Biſhops that they would pleaſe to take ſome pains to inform their Clergy of theſe Matters; eſpe<g ref="char:EOLhyphen"/>cially ſuch as come for Prieſt<g ref="char:EOLhyphen"/>hood or Inſtitution, that they
+<pb n="28" facs="tcp:106654:16"/> would ſet before them the true and ge<g ref="char:EOLhyphen"/>nuine ſenſe of the Oath againſt Simony, that it is not impoſed by Statute or Com<g ref="char:EOLhyphen"/>mon-Law, but by the Eccleſiaſtical Ca<g ref="char:EOLhyphen"/>nons; and that the true ſenſe and mean<g ref="char:EOLhyphen"/>ing of theſe Words is not to be learn'd from the Common Law, but the Eccle<g ref="char:EOLhyphen"/>ſiaſtical. That the Opinion of the Judg<g ref="char:EOLhyphen"/>es in the two Caſes quoted for theſe Bonds, did only relate to the Law of the Land, and not to the Laws of the Church; and that even they, tho' they did de<g ref="char:EOLhyphen"/>clare theſe Bonds good againſt the Clerks that gave them, yet did not determine whether they did not make the Livings void: That the Statute of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> over and above the Penalties there inflicted, expreſly confirms and ratifieth all Eccleſiaſtical Puniſhments for ſuch Offences; and that after ſuch plain Ad<g ref="char:EOLhyphen"/>monition given by the Biſhops, they would inflict the Eccleſiaſtical Cenſures for Simony and Perjury upon all ſuch as ſhould be found guilty, I doubt not but that ſuch a Method would effectually ſup<g ref="char:EOLhyphen"/>preſs ſuch Contracts for the future, and deliver the Church from thoſe miſchie<g ref="char:EOLhyphen"/>vous Snares that have of late years ſo mightily prevailed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106654:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
